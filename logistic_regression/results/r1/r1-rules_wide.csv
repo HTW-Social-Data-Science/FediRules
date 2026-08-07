@@ -1,0 +1,8 @@
+variable,CSAM,advertising,automated_tools_bots,harassment,has_rules,hate_speech,illegal,misinfo,nsfw,nsfw_cw,privacy,spam,violence
+software_akkoma,1.535727,,,,-0.756010,,0.723784,,,1.141596,,,
+software_gotosocial,,,,,-2.800789,,,,,,,,
+software_other,,,,,-1.391810,,,,,,,,
+software_pixelfed,,,,,-1.125804,,,,,,,,
+software_pleroma,,0.780981,0.813389,,-1.572506,-0.839968,0.842006,-0.826967,,,,,
+status_count,,,,,0.155145,,,-0.081043,-0.319523,,,,
+user_count,,0.254843,0.290067,0.278120,0.427444,0.252486,0.216245,0.280101,0.549408,,0.208795,0.285354,0.392051

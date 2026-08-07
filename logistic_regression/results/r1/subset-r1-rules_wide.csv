@@ -1,0 +1,9 @@
+variable,CSAM,automated_tools_bots,has_rules,hate_speech,illegal,misinfo,nazis,violence_cw
+lang_de,,,,0.588521,,,,
+lang_ja,-2.188911,,,-1.640377,,,-4.264534,-2.129959
+low_info_02_count,,,-0.004996,,,,,
+software_akkoma,1.230931,,-0.750776,,0.918576,,,
+software_other,,,-1.153920,,,,,
+software_pleroma,,1.131990,-1.533265,,0.891296,,,
+status_count,,,0.109016,,,,,
+user_count,,0.238867,0.470079,0.267604,0.200360,0.269353,,
